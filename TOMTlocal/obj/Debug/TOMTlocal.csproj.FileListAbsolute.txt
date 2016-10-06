@@ -1,0 +1,13 @@
+C:\Users\Zach\Documents\Visual Studio 2015\Projects\TOMTlocal\TOMTlocal\bin\Debug\TOMTlocal.exe
+C:\Users\Zach\Documents\Visual Studio 2015\Projects\TOMTlocal\TOMTlocal\bin\Debug\TOMTlocal.pdb
+C:\Users\Zach\Documents\Visual Studio 2015\Projects\TOMTlocal\TOMTlocal\bin\Debug\HAL.dll
+C:\Users\Zach\Documents\Visual Studio 2015\Projects\TOMTlocal\TOMTlocal\bin\Debug\NetworkTables.dll
+C:\Users\Zach\Documents\Visual Studio 2015\Projects\TOMTlocal\TOMTlocal\bin\Debug\WPILib.dll
+C:\Users\Zach\Documents\Visual Studio 2015\Projects\TOMTlocal\TOMTlocal\bin\Debug\WPILib.Extras.dll
+C:\Users\Zach\Documents\Visual Studio 2015\Projects\TOMTlocal\TOMTlocal\bin\Debug\HAL.xml
+C:\Users\Zach\Documents\Visual Studio 2015\Projects\TOMTlocal\TOMTlocal\bin\Debug\NetworkTables.xml
+C:\Users\Zach\Documents\Visual Studio 2015\Projects\TOMTlocal\TOMTlocal\bin\Debug\WPILib.xml
+C:\Users\Zach\Documents\Visual Studio 2015\Projects\TOMTlocal\TOMTlocal\bin\Debug\WPILib.Extras.xml
+C:\Users\Zach\Documents\Visual Studio 2015\Projects\TOMTlocal\TOMTlocal\obj\Debug\TOMTlocal.csprojResolveAssemblyReference.cache
+C:\Users\Zach\Documents\Visual Studio 2015\Projects\TOMTlocal\TOMTlocal\obj\Debug\TOMTlocal.exe
+C:\Users\Zach\Documents\Visual Studio 2015\Projects\TOMTlocal\TOMTlocal\obj\Debug\TOMTlocal.pdb
