@@ -130,7 +130,11 @@ namespace TOMTlocal
             GrapplingTalonG1.Set(0);
             GrapplingTalonG2.Set(0);
         }
-
+        /// <summary>
+        /// Drives the motors left and right.
+        /// </summary>
+        /// <param name="left">The left amount.</param>
+        /// <param name="right">The right amount.</param>
         public static void DriveLeftRight(double left, double right)
         {
             DriveTrainTalonFl.Set(left);

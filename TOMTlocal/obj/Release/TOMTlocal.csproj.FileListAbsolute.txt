@@ -13,3 +13,14 @@ c:\users\zach\documents\visual studio 2015\Projects\TOMTlocal\TOMTlocal\obj\Rele
 c:\users\zach\documents\visual studio 2015\Projects\TOMTlocal\TOMTlocal\obj\Release\TOMTlocal.pdb
 C:\Users\Zach\Desktop\TOMTlocal\TOMTlocal\obj\Release\TOMTlocal.exe
 C:\Users\Zach\Desktop\TOMTlocal\TOMTlocal\obj\Release\TOMTlocal.pdb
+C:\Users\Zach\Desktop\TOMTlocal\TOMTlocal\bin\Release\TOMTlocal.exe
+C:\Users\Zach\Desktop\TOMTlocal\TOMTlocal\bin\Release\TOMTlocal.pdb
+C:\Users\Zach\Desktop\TOMTlocal\TOMTlocal\bin\Release\HAL.dll
+C:\Users\Zach\Desktop\TOMTlocal\TOMTlocal\bin\Release\NetworkTables.dll
+C:\Users\Zach\Desktop\TOMTlocal\TOMTlocal\bin\Release\WPILib.dll
+C:\Users\Zach\Desktop\TOMTlocal\TOMTlocal\bin\Release\WPILib.Extras.dll
+C:\Users\Zach\Desktop\TOMTlocal\TOMTlocal\bin\Release\HAL.xml
+C:\Users\Zach\Desktop\TOMTlocal\TOMTlocal\bin\Release\NetworkTables.xml
+C:\Users\Zach\Desktop\TOMTlocal\TOMTlocal\bin\Release\WPILib.xml
+C:\Users\Zach\Desktop\TOMTlocal\TOMTlocal\bin\Release\WPILib.Extras.xml
+C:\Users\Zach\Desktop\TOMTlocal\TOMTlocal\obj\Release\TOMTlocal.csprojResolveAssemblyReference.cache
