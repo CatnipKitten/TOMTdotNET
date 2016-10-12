@@ -95,6 +95,13 @@ namespace TOMTlocal
                     else
                         shooterArm.ArmSpeed = -0.625;
                 } 
+
+
+
+                else if (RobotMap.Gamepad.GetPOV(0) == 180)
+                {
+                    shooterArm.ArmSpeed = -0.10;
+                }
                 else
                     shooterArm.ArmSpeed = 0;
                 //Flashlight

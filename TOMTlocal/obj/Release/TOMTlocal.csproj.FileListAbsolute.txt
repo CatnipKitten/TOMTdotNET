@@ -24,3 +24,16 @@ C:\Users\Zach\Desktop\TOMTlocal\TOMTlocal\bin\Release\NetworkTables.xml
 C:\Users\Zach\Desktop\TOMTlocal\TOMTlocal\bin\Release\WPILib.xml
 C:\Users\Zach\Desktop\TOMTlocal\TOMTlocal\bin\Release\WPILib.Extras.xml
 C:\Users\Zach\Desktop\TOMTlocal\TOMTlocal\obj\Release\TOMTlocal.csprojResolveAssemblyReference.cache
+C:\Users\CocoNuts\Source\Repos\TOMTdotNET\TOMTlocal\obj\Release\TOMTlocal.exe
+C:\Users\CocoNuts\Source\Repos\TOMTdotNET\TOMTlocal\obj\Release\TOMTlocal.pdb
+C:\Users\CocoNuts\Source\Repos\TOMTdotNET\TOMTlocal\bin\Release\TOMTlocal.exe
+C:\Users\CocoNuts\Source\Repos\TOMTdotNET\TOMTlocal\bin\Release\TOMTlocal.pdb
+C:\Users\CocoNuts\Source\Repos\TOMTdotNET\TOMTlocal\bin\Release\HAL.dll
+C:\Users\CocoNuts\Source\Repos\TOMTdotNET\TOMTlocal\bin\Release\NetworkTables.dll
+C:\Users\CocoNuts\Source\Repos\TOMTdotNET\TOMTlocal\bin\Release\WPILib.dll
+C:\Users\CocoNuts\Source\Repos\TOMTdotNET\TOMTlocal\bin\Release\WPILib.Extras.dll
+C:\Users\CocoNuts\Source\Repos\TOMTdotNET\TOMTlocal\bin\Release\HAL.xml
+C:\Users\CocoNuts\Source\Repos\TOMTdotNET\TOMTlocal\bin\Release\NetworkTables.xml
+C:\Users\CocoNuts\Source\Repos\TOMTdotNET\TOMTlocal\bin\Release\WPILib.xml
+C:\Users\CocoNuts\Source\Repos\TOMTdotNET\TOMTlocal\bin\Release\WPILib.Extras.xml
+C:\Users\CocoNuts\Source\Repos\TOMTdotNET\TOMTlocal\obj\Release\TOMTlocal.csprojResolveAssemblyReference.cache
